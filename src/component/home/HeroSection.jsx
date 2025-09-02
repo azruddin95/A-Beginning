@@ -3,7 +3,7 @@ import React from 'react'
 const HeroSection = () => {
   return (
     <>
-      <h1>Heor Section</h1>
+      <h1>Hero Section</h1>
       <button className='btn btn-primary'>Get Started</button>
     </>
   )

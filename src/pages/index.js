@@ -1,8 +1,8 @@
 import React from "react";
 import Head from "next/head";
-import Navbar from "@/component/client/layout/Navbar";
-import Footer from "@/component/client/layout/Footer";
-import HeroSection from "@/component/client/home/HeroSection";
+import Navbar from "@/component/layout/Navbar";
+import Footer from "@/component/layout/Footer";
+import HeroSection from "@/component/home/HeroSection";
 
 const IndexPage = () => {
   return (
