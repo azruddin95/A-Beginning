@@ -8,12 +8,12 @@ const IndexPage = () => {
   return (
     <>
       <Head>
+         <link rel="icon" href="/a-beginning-favicon.webp" />
         <title>LMS – Learn Anytime, Anywhere</title>
         <meta
           name="description"
           content="A modern Learning Management System (LMS) built with Next.js."
         />
-        <meta name="viewport" content="width=device-width, initial-scale=1" />
       </Head>
       <Navbar />
       <HeroSection />
